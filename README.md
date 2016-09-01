@@ -1,5 +1,5 @@
 
-#Intertet of Things (IOT)
+#Internet of Things (IOT)
 --
 This is the larger scale concept of having all devices we have as consumers and business' under one big roof called the internet. For most of us, this is an exciting concept because it does create the possibility for new technologies. These new technologies can provide entertainment, but more importantly create more effeicient ways of carrying out operations
 
