@@ -21,7 +21,7 @@ This is the larger scale concept of having all devices we have as consumers and 
 		- Innovations using data
 			- Doctor tracks patients through home and determines if coming in is necessary - helps costs
 			- Smart Beds adjust for patient needs based on previous data
-			- Electronic Health Records have increased from 16% in 2009 to 80% in 2013
+			- Electronic Health Records have increased in US hospitals from 16% in 2009 to 80% in 2013
 
 
 What this all means is that there are more jobs for us as developers but also adds more pressure to make sure we do protect the people who use our products. 
